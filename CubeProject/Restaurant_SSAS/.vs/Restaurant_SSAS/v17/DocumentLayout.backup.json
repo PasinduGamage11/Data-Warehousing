@@ -1,0 +1,155 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Brazil\\Restaurant_SSAS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|C:\\Brazil\\Restaurant_SSAS\\Cube_Restaurant DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|solutionrelative:Cube_Restaurant DW.cube||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|C:\\Brazil\\Restaurant_SSAS\\Dim Payment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|solutionrelative:Dim Payment.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|C:\\Brazil\\Restaurant_SSAS\\Role.role||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|solutionrelative:Role.role||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|C:\\Brazil\\Restaurant_SSAS\\Dim Menu Item.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|solutionrelative:Dim Menu Item.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|C:\\Brazil\\Restaurant_SSAS\\Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|solutionrelative:Dim Customer.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|C:\\Brazil\\Restaurant_SSAS\\DSV_Restaurant DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|solutionrelative:DSV_Restaurant DW.dsv||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|C:\\Brazil\\Restaurant_SSAS\\Dim Restaurant.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|solutionrelative:Dim Restaurant.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|C:\\Brazil\\Restaurant_SSAS\\Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design",
+      "RelativeMoniker": "D:0:0:{38A5D678-A75D-FC7D-635F-A068803EED9B}|Restaurant_SSAS.dwproj|solutionrelative:Dim Date.dim||{B4191D15-2D32-45F2-906F-E91BBAAA6059}|Design"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Role.role [Design]",
+              "DocumentMoniker": "C:\\Brazil\\Restaurant_SSAS\\Role.role",
+              "RelativeDocumentMoniker": "Role.role",
+              "ToolTip": "C:\\Brazil\\Restaurant_SSAS\\Role.role [Design]",
+              "RelativeToolTip": "Role.role [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-06T04:16:05.549Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dim Payment.dim [Design]",
+              "DocumentMoniker": "C:\\Brazil\\Restaurant_SSAS\\Dim Payment.dim",
+              "RelativeDocumentMoniker": "Dim Payment.dim",
+              "ToolTip": "C:\\Brazil\\Restaurant_SSAS\\Dim Payment.dim [Design]",
+              "RelativeToolTip": "Dim Payment.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T01:55:50.667Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Cube_Restaurant DW.cube [Design]",
+              "DocumentMoniker": "C:\\Brazil\\Restaurant_SSAS\\Cube_Restaurant DW.cube",
+              "RelativeDocumentMoniker": "Cube_Restaurant DW.cube",
+              "ToolTip": "C:\\Brazil\\Restaurant_SSAS\\Cube_Restaurant DW.cube [Design]",
+              "RelativeToolTip": "Cube_Restaurant DW.cube [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T01:44:03.257Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dim Menu Item.dim [Design]",
+              "DocumentMoniker": "C:\\Brazil\\Restaurant_SSAS\\Dim Menu Item.dim",
+              "RelativeDocumentMoniker": "Dim Menu Item.dim",
+              "ToolTip": "C:\\Brazil\\Restaurant_SSAS\\Dim Menu Item.dim [Design]",
+              "RelativeToolTip": "Dim Menu Item.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T01:54:20.104Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dim Customer.dim [Design]",
+              "DocumentMoniker": "C:\\Brazil\\Restaurant_SSAS\\Dim Customer.dim",
+              "RelativeDocumentMoniker": "Dim Customer.dim",
+              "ToolTip": "C:\\Brazil\\Restaurant_SSAS\\Dim Customer.dim [Design]",
+              "RelativeToolTip": "Dim Customer.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T01:52:08.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DSV_Restaurant DW.dsv [Design]",
+              "DocumentMoniker": "C:\\Brazil\\Restaurant_SSAS\\DSV_Restaurant DW.dsv",
+              "RelativeDocumentMoniker": "DSV_Restaurant DW.dsv",
+              "ToolTip": "C:\\Brazil\\Restaurant_SSAS\\DSV_Restaurant DW.dsv [Design]",
+              "RelativeToolTip": "DSV_Restaurant DW.dsv [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T01:24:00.368Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dim Restaurant.dim [Design]",
+              "DocumentMoniker": "C:\\Brazil\\Restaurant_SSAS\\Dim Restaurant.dim",
+              "RelativeDocumentMoniker": "Dim Restaurant.dim",
+              "ToolTip": "C:\\Brazil\\Restaurant_SSAS\\Dim Restaurant.dim [Design]",
+              "RelativeToolTip": "Dim Restaurant.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T01:53:20.927Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Dim Date.dim [Design]",
+              "DocumentMoniker": "C:\\Brazil\\Restaurant_SSAS\\Dim Date.dim",
+              "RelativeDocumentMoniker": "Dim Date.dim",
+              "ToolTip": "C:\\Brazil\\Restaurant_SSAS\\Dim Date.dim [Design]",
+              "RelativeToolTip": "Dim Date.dim [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-05T01:55:09.521Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
